@@ -30,4 +30,4 @@ class ConsultaController extends Controller
         return response()->json($usuario, 200);
     }
 }
-
+soy un crack
